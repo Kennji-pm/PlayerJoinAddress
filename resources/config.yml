@@ -1,1 +1,10 @@
+#Don't Edit!!!
+config-version: 1.0
+#Don't Edit!!!
 
+#Plugin Setting
+Setting:
+  
+  saveDataJoin: true    #true = Enable | false = Disnable
+
+  saveDataQuit: true    #true = Enable | false = Disnable
