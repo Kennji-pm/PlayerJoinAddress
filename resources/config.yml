@@ -5,6 +5,6 @@ config-version: 1.0
 #Plugin Setting
 Setting:
   
-  saveDataJoin: true    #true = Enable | false = Disnable
+  saveDataJoin: true    #true = Enable | false = Disable
 
-  saveDataQuit: true    #true = Enable | false = Disnable
+  saveDataQuit: true    #true = Enable | false = Disable
